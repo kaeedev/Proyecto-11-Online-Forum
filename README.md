@@ -9,8 +9,8 @@ Maquetación de un header para un foro online con HTML, CSS, Astro y Tailwind
 El objetivo de este proyecto es aplicar todo lo aprendido en HTML, CSS, Astro y Tailwind
 
 ## 👁️ Vista previa del proyecto
-<img src="public/assets/preview.jpeg" width=1200>
-<img src="public/assets/previewmobile.jpeg" width=300>
+<img src="public/assets/preview.jpg" width=1200>
+<img src="public/assets/previewmobile.jpg" width=300>
 
 
 ## 🛠️ Estructura del Proyecto
