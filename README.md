@@ -54,8 +54,8 @@ Layout of a online forum made with HTML, CSS, Astro, and Tailwind
 The goal of this project is to apply everything learned in HTML, CSS, Astro, and Tailwind.
 
 ## 👁️ Project Preview
-<img src="public/assets/preview.jpeg" width=1200>
-<img src="public/assets/previewmobile.jpeg" width=300>
+<img src="public/assets/preview.jpg" width=1200>
+<img src="public/assets/previewmobile.jpg" width=300>
 
 ## 🛠️ Project Structure
 
