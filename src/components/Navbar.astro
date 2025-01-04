@@ -1,0 +1,20 @@
+---
+import Logo from "./Logo.astro";
+---
+
+<header class="flex flex-row justify-around items-center gap-x-10 md:flex md:flex-row md:justify-around md:items-center md:gap-x-10 xl:flex xl:flex-row xl:justify-around xl:items-center p-5">
+    <Logo/>
+    <nav class="hidden md:flex md:flex-row md:justify-around md:items-center md:gap-x-6 xl:flex xl:flex-row xl:justify-around xl:items-center xl:gap-x-14 text-secundario md:[&>a]:text-[20px] md:whitespace-nowrap [&>a]:font-[400] hover:[&>a]:text-principal  [&>a]:font-poppins hover:[&>a]:underline decoration-4 decoration-boton underline-offset-8 md:p-2">
+        <a href="#">Home</a>
+        <a href="#">Features</a>
+        <a href="#">Blog</a>
+        <a href="#">Contact</a>
+        <a href="#">About Us</a>
+    </nav>
+
+    <div class="flex flex-row justify-between items-center ">
+        <button class="xl:hidden md:hidden text-white transition-colors duration-500 font-bold  p-3 bg-boton hover:bg-botonhover rounded ease-in-out hover:animate-tada ">
+            <p class="landing-section text-sm">Menú</p>
+        </button>
+    </div>
+</header>
